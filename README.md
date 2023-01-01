@@ -7,5 +7,5 @@ Sample Backend App: [YunosukeY/k8s-playground-backend](https://github.com/Yunosu
 Playgrounds
 
 - Security: [YunosukeY/k8s-sec-playground](https://github.com/YunosukeY/k8s-sec-playground)
-- Monitoring:
+- Monitoring: [YunosukeY/k8s-monitoring-playground](https://github.com/YunosukeY/k8s-monitoring-playground)
 - Middleware:
