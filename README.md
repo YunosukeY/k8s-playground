@@ -8,4 +8,4 @@ Playgrounds
 
 - Security: [YunosukeY/k8s-sec-playground](https://github.com/YunosukeY/k8s-sec-playground)
 - Monitoring: [YunosukeY/k8s-monitoring-playground](https://github.com/YunosukeY/k8s-monitoring-playground)
-- Middleware:
+- CD: [YunosukeY/k8s-cd-playground](https://github.com/YunosukeY/k8s-cd-playground)
