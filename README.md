@@ -2,7 +2,10 @@
 
 This repository indexes to each playground repository
 
-Sample Backend App: [YunosukeY/k8s-playground-backend](https://github.com/YunosukeY/k8s-playground-backend)
+Sample Application
+
+- Protobuf: [YunosukeY/k8s-playground-protobuf](https://github.com/YunosukeY/k8s-playground-protobuf)
+- Backend: [YunosukeY/k8s-playground-backend](https://github.com/YunosukeY/k8s-playground-backend)
 
 Playgrounds
 
